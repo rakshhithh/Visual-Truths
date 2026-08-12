@@ -52,6 +52,8 @@ Why this dataset?
 + Same data, distorted scale.
 + Inflation changes appear exaggerated.
 
+<img width="613" height="393" alt="Image" src="https://github.com/user-attachments/assets/8d1d5aa2-cf2e-4dc4-b25b-2e6d6baa67d3" />
+
 📌 Purpose: To demonstrate how perceptual bias can be introduced through visual design rather than data manipulation.
 
 3️⃣ Corrected Visualization (Ethical)
