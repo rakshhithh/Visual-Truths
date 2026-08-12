@@ -12,13 +12,11 @@ Correct misleading inflation graphs by recreating them with a proper y-axis, dra
 
 This project addresses how truncated axes and poor visual scaling can exaggerate inflation trends, potentially misleading viewers despite accurate data.
 
-*📂 Dataset*
+**📂 Dataset**
 
-Source: World Bank
-
-Indicator: Inflation, consumer prices (annual %)
-
-Format: CSV (downloaded as a ZIP containing data + metadata files)
++ Source: World Bank
++ Indicator: Inflation, consumer prices (annual %)
++ Format: CSV (downloaded as a ZIP containing data + metadata files)
 
 Coverage: Multiple countries, multiple decades
 
