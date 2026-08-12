@@ -1,4 +1,4 @@
-Detecting and Correcting Perceptual Bias in Inflation Data Visualizations
+Detecting and Correcting Perceptual Bias in Inflation Data Visualizations.
 
 **Project Overview**
 
