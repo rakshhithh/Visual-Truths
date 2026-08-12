@@ -1,6 +1,6 @@
 Detecting and Correcting Perceptual Bias in Inflation Data Visualizations
 
-**📌 Project Overview**
+**Project Overview**
 
 Visual Truths is a data science case study that explores how misleading graphical design choices, particularly improper y-axis scaling, can distort the interpretation of economic data. Using real-world inflation data, this project demonstrates how the same dataset can lead to very different conclusions depending on visualization practices.
 
@@ -36,9 +36,9 @@ Why this dataset?
 
 ---
 
-**📈 Methodology**
+**Methodology**
 
-1️⃣ Data Loading & Preparation
+1️⃣. Data Loading & Preparation
 
 + Extracted the main inflation CSV from the World Bank ZIP file.
 + Skipped metadata rows.
@@ -46,7 +46,7 @@ Why this dataset?
 + No global data imputation or deletion was performed.
 + Missing values (NaNs) were preserved to maintain data integrity and were excluded only at the visualization stage where necessary.
 
-2️⃣ Misleading Visualization (Intentional)
+2️⃣. Misleading Visualization (Intentional)
 
 + Line graph with a truncated y-axis.
 + Same data, distorted scale.
@@ -55,9 +55,9 @@ Why this dataset?
 <img width="613" height="393" alt="Image" src="https://github.com/user-attachments/assets/8d1d5aa2-cf2e-4dc4-b25b-2e6d6baa67d3" />
 
 
-📌 Purpose: To demonstrate how perceptual bias can be introduced through visual design rather than data manipulation.
+Purpose: To demonstrate how perceptual bias can be introduced through visual design rather than data manipulation.
 
-3️⃣ Corrected Visualization (Ethical)
+3️⃣. Corrected Visualization (Ethical)
 
 + Same inflation data.
 + Y-axis starts at zero.
@@ -66,9 +66,9 @@ Why this dataset?
 <img width="600" height="393" alt="Image" src="https://github.com/user-attachments/assets/dd88085d-1248-4be4-8746-22e89a2d4a62" />
 
 
-📌 Result: Inflation trends appear gradual and proportional to actual values.
+Result: Inflation trends appear gradual and proportional to actual values.
 
-4️⃣ Comparative Bar Chart
+4️⃣. Comparative Bar Chart
 
 + Comparison of inflation rates across countries (India, USA, China).
 + Same y-axis scale for all bars.
@@ -79,7 +79,7 @@ Why this dataset?
 
 ---
 
-**📌 Why bar charts?**
+**Why bar charts?**
 
 They reduce perceptual distortion and improve absolute comparison.
 
