@@ -1,18 +1,20 @@
 Detecting and Correcting Perceptual Bias in Inflation Data Visualizations
 
-##**📌 Project Overview**
+**📌 Project Overview**
 
 Visual Truths is a data science case study that explores how misleading graphical design choices—particularly improper y-axis scaling—can distort the interpretation of economic data. Using real-world inflation data, this project demonstrates how the same dataset can lead to very different conclusions depending on visualization practices.
 
 The case study emphasizes ethical data visualization, perceptual bias, and responsible communication of economic indicators.
 
-##**🎯 Problem Statement**
+---
+
+**🎯 Problem Statement**
 
 Correct misleading inflation graphs by recreating them with a proper y-axis, draw comparative bar charts, insert a caption on perceptual bias, and justify ethical visualization standards.
 
 This project addresses how truncated axes and poor visual scaling can exaggerate inflation trends, potentially misleading viewers despite accurate data.
 
-##**📂 Dataset**
+**📂 Dataset**
 
 + Source: World Bank
 + Indicator: Inflation, consumer prices (annual %)
@@ -25,7 +27,7 @@ Why this dataset?
 2. Frequently used in academic and policy analysis
 3. Ideal for studying visualization ethics without altering raw data
 
-##**🛠️ Tools & Technologies**
+**🛠️ Tools & Technologies**
 
 + Platform: Google Colab
 + Language: Python
