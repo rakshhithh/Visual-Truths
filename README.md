@@ -75,6 +75,7 @@ Why this dataset?
 They reduce perceptual distortion and improve absolute comparison.
 
 **🧠 Perceptual Bias Caption**
+
 Truncating the y-axis exaggerates perceived inflation changes, making minor numerical differences appear significant. Ethical visualizations must align visual scale with actual magnitude to prevent misleading interpretation.
 
 **⚖️ Ethical Visualization Principles Applied**
