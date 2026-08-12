@@ -74,6 +74,9 @@ Why this dataset?
 + Same y-axis scale for all bars.
 + Clear labels and units.
 
+<img width="523" height="393" alt="Image" src="https://github.com/user-attachments/assets/d886d2ef-ca8b-4d4d-a1c7-e14f3cad0835" />
+
+
 ---
 
 **📌 Why bar charts?**
