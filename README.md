@@ -54,6 +54,7 @@ Why this dataset?
 
 <img width="613" height="393" alt="Image" src="https://github.com/user-attachments/assets/8d1d5aa2-cf2e-4dc4-b25b-2e6d6baa67d3" />
 
+
 📌 Purpose: To demonstrate how perceptual bias can be introduced through visual design rather than data manipulation.
 
 3️⃣ Corrected Visualization (Ethical)
@@ -61,6 +62,9 @@ Why this dataset?
 + Same inflation data.
 + Y-axis starts at zero.
 + Consistent scaling.
+
+<img width="600" height="393" alt="Image" src="https://github.com/user-attachments/assets/dd88085d-1248-4be4-8746-22e89a2d4a62" />
+
 
 📌 Result: Inflation trends appear gradual and proportional to actual values.
 
