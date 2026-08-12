@@ -1,48 +1,39 @@
 Detecting and Correcting Perceptual Bias in Inflation Data Visualizations
 
-**📌 Project Overview**
+##**📌 Project Overview**
 
 Visual Truths is a data science case study that explores how misleading graphical design choices—particularly improper y-axis scaling—can distort the interpretation of economic data. Using real-world inflation data, this project demonstrates how the same dataset can lead to very different conclusions depending on visualization practices.
 
 The case study emphasizes ethical data visualization, perceptual bias, and responsible communication of economic indicators.
 
-**🎯 Problem Statement**
+##**🎯 Problem Statement**
 
 Correct misleading inflation graphs by recreating them with a proper y-axis, draw comparative bar charts, insert a caption on perceptual bias, and justify ethical visualization standards.
 
 This project addresses how truncated axes and poor visual scaling can exaggerate inflation trends, potentially misleading viewers despite accurate data.
 
-**📂 Dataset**
+##**📂 Dataset**
 
 + Source: World Bank
 + Indicator: Inflation, consumer prices (annual %)
 + Format: CSV (downloaded as a ZIP containing data + metadata files)
-
-Coverage: Multiple countries, multiple decades
++ Coverage: Multiple countries, multiple decades
 
 Why this dataset?
 
-Official and globally trusted
+1. Official and globally trusted
+2. Frequently used in academic and policy analysis
+3. Ideal for studying visualization ethics without altering raw data
 
-Frequently used in academic and policy analysis
+##**🛠️ Tools & Technologies**
 
-Ideal for studying visualization ethics without altering raw data
-
-🛠️ Tools & Technologies
-
-Platform: Google Colab
-
-Language: Python
-
-Libraries:
-
-pandas – data handling
-
-matplotlib – visualization
-
-Version Control: GitHub
++ Platform: Google Colab
++ Language: Python
++ Libraries: Pandas (Data Handling), Matplotlib (Visualization)
++ Version Control: GitHub
 
 📈 Methodology
+
 1️⃣ Data Loading & Preparation
 
 Extracted the main inflation CSV from the World Bank ZIP file
